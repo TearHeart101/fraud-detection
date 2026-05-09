@@ -20,7 +20,7 @@
 
 | Detail | Info |
 |--------|------|
-| **Student** | Sakshi |
+| **Student** | Anmol |
 | **College** | Gautam Buddha University |
 | **Program** | B.Tech CSE (Artificial Intelligence) |
 | **Course** | Machine Learning |
